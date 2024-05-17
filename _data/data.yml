@@ -73,18 +73,21 @@ educationcomplete:
 
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
-  - role: React Native Developer
-    time: Feb 2022 - Present
+  - role: Ruby on Rails Web Developer
+    time: Dec 2023 - May 2024
     company: Bright Coders, Mexico
     details: |
-      Develop native applications with technologies such as Javascript and React Native, 
-      while implementing good practices, test-based development, tools for managing local 
-      and remote repositories. In addition to developing fundamental skills in software development 
-      such as teamwork and effective communication using an agile methodology.
+      Develop web applications with technologies such as Ruby on Rails, Javascript, HTML, Tailwind, and PostgreSQL.
 
   - role: zzzlepy
     time: Dec 2023 - May 2024
     company: BrightCoders
+    details: |
+      Develop web applications with technologies such as Ruby on Rails, Javascript, HTML, Tailwind, and PostgreSQL.
+    
+  - role: Tacos Freelance JavaScript Project
+    time: March 2023 - April 2023
+    company: Freelance
     details: |
       Develop web applications with technologies such as Ruby on Rails, Javascript, HTML, Tailwind, and PostgreSQL.
 
