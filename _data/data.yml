@@ -17,7 +17,7 @@ sidebar:
   phone: 312 114 1455
   website: # No agregar http://
   linkedin: GUTIERREZ COBIAN LUIS ANGEL # solo tu nombre de usuario de linkedin o dejar en blanco
-  github: LuisDev123 # solo tu nombre de usuario en github o dejar en blanco
+  github: DevLuis123 # solo tu nombre de usuario en github o dejar en blanco
   gitlab:  # solo tu nombre de usuario en gitlab o dejar en blanco
   bitbucket:  # solo tu nombre de usuario en bitbucket o dejar en blanco
   twitter: # solo tu nombre de usuario en twitter o dejar en blanco
@@ -89,7 +89,7 @@ experiences:
     time: March 2023 - April 2023
     company: Freelance
     details: |
-      Develop web applications with technologies such as Ruby on Rails, Javascript, HTML, Tailwind, and PostgreSQL.
+      Develop web applications with technologies such Javascript, HTML and CSS.
 
 # Registra aquí tus habilidades técnicas, para level utiliza:
 # 20% para Novice
